@@ -1,4 +1,4 @@
-# Icecream-Sales-Prediction
+# Icecream Sales Prediction
 
 ## Overview
 
